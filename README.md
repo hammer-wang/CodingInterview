@@ -250,7 +250,7 @@ Evening:
 
 ### 2019-09-29 (Sunday)
 Morning:
-- Study singly-linked lists (Sec 7.1, DSAP), general trees and binary trees (Sec 8.1 - 8.2, DSAP), priority queues (Sec 9.1 - Sec 9.2, DSAP)
+- Study singly-linked lists (Sec 7.1, DSAP), trees (chapter 8, DSAP), priority queues (Sec 9.1 - Sec 9.2, DSAP)
 - Practice related coding problems
 
 Afternoon:
