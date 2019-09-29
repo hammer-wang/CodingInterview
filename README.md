@@ -216,7 +216,18 @@ Math: Some interviewers ask basic discrete math questions. This is more prevalen
 - Data Structures and Algorithms [Book]
 - Cracking the Coding Interview [Book]
 
-## XI. Daily Notes
+## XI. Strategy of practicing problem solving on Leetcode
+1. Go to a quiet location
+2. Pick a question
+3. Set a timer for 25 minutes
+4. Allocate the first 5 minutes to understand the problem and ask/answer clarifying questions to yourself
+5. Spend the next 20 minutes solving the problem on paper & pen/pencil
+6. Spend the next 10 minutes studying the solution
+7. Stop. Even if you are in the middle of something important like trying to understand the solution. Do not spend more than 30 minutes per question.
+8. Record activity on your progress chart.
+9. Revisit the question next week.
+
+## Daily Notes
 
 ### Template: Date (Day)
 Morning:
@@ -249,19 +260,34 @@ Evening:
 - Practice 2-3 coding problems related to the concepts learned on the same day
 
 ### 2019-09-29 (Sunday)
+Topics: linked list, positional list, trees, maps, hash tables, pattern matching, dynamic programming
+
 Morning:
-- Study singly-linked lists (Sec 7.1, DSAP), trees (chapter 8, DSAP), priority queues (Sec 9.1 - Sec 9.2, DSAP)
+- Study singly-linked lists (Sec 7.1, DSAP), positional list (Sec 7.4.1), trees (chapter 8, DSAP)
 - Practice related coding problems
 
 Afternoon:
-- Study and Maps and Hash tables (Sec 10.1-10.2, DSAP), binary search tree (Sec 11.1, DSAP), balanced search tree (Sec 11.2, DSAP),
-Practice 2-3 related coding problems on LeetCode
+- Study and Maps and Hash tables (Sec 10.1-10.2, DSAP)
+- Practice 2-3 related coding problems on LeetCode
 
 Evening:
-- Study merge sort and quick-sort (Sec 12.1 - 12.3, DSAP)
-- Practice 2-3 related coding problems on LeetCode
-- Study data structures for graphs and graph traversals (Sec 14.1 - 14.3, DSAP)
+- Study pattern matching and dynamic programming (section 13.1 - 13.3)
 - Practice 2-3 related coding problems on LeetCode
 - Review stacks, queues, deques.
+- review the topics learned today
+
+### 2019-09-30 (Monday)
+
+Morning (6:30 am - 9:00 am)
+- Study graphs (Chapter 14)
+- practice 1-2 graph related coding problems
+
+Evening (8:00 pm- 12:30 am)
+- Study Sorting and selection
+- practice 1-2 sorting and selection related coding problems
+- review graphs
+- review sorting and selection
+
+
 
 
