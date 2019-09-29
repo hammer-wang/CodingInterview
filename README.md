@@ -17,20 +17,20 @@ Disclaimer: I’m a machine learning PhD, and I code everyday for my research pr
 
 ## I. Goal:
 Before Google Interview:
-Read the python data structure and algorithms at least once
-Finish the top 100 favorite problems
-Finish Google top 50 problems
-Finish top 100 highly frequent questions
-Do at least 2 Google mock interviews on LeetCode before the actual interview
+- Read the python data structure and algorithms at least once
+- Finish the top 100 favorite problems on LeetCode
+- Finish Google top 50 problems on LeetCode
+- Finish top 100 highly frequent questions on LeetCode
+- Do at least 2 Google mock interviews on LeetCode before the actual interview
 
 Before Facebook Interview:
-Finish Facebook top 50 problems
-Do the top 100 highly frequent questions at least twice
-Do at least 2 Facebook mock interview on Leetcode before the actual interview
-Read the python data structure and algorithms twice
+- Finish Facebook top 50 problems on LeetCode
+- Do the top 100 highly frequent questions at least twice
+- Do at least 2 Facebook mock interview on Leetcode before the actual interview
+- Read the python data structure and algorithms twice
 
 ## II. Estimated Time to Prepare (Sep 29th):
-	Min/Max hrs before Google ([Oct 7th, Oct 11th] : 71hrs/99hrs
+	Min/Max hrs before Google ([Oct 7th, Oct 11th] : 71hrs/99hr
 	Hrs before Facebook (Oct 28th): ~160 hrs
 
 ## III. High-level Strategies:
