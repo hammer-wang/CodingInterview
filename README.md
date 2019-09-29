@@ -1,7 +1,7 @@
 Introduction:
-	This is a study plan I complied when I was preparing for the coding interviews of Google and Facebook for interns. I only had less than 2 weeks to prepare for the Google interview, and 1 month to prepare for the Facebook interview. As an undergraduate, I studied optoelectronics. Though I took Introduction to Computer Science and C++ Programming in my freshman year,  I’ve never taken a rigorous data structure and algorithms before. So, this plan is friendly to beginner to intermediate level interviewees who want to crack the coding interview in a short amount of time. Please feel free to use this study to boost your own preparation for Python coding interview. If you find this plan helpful, please star this repo.
+This is a study plan I complied when I was preparing for the coding interviews of Google and Facebook for interns. I only had less than 2 weeks to prepare for the Google interview, and 1 month to prepare for the Facebook interview. As an undergraduate, I studied optoelectronics. Though I took Introduction to Computer Science and C++ Programming in my freshman year,  I’ve never taken a rigorous data structure and algorithms before. So, this plan is friendly to beginner to intermediate level interviewees who want to crack the coding interview in a short amount of time. Please feel free to use this study to boost your own preparation for Python coding interview. If you find this plan helpful, please star this repo.
 
-	Disclaimer: I’m a machine learning PhD, and I code everyday for my research projects. So, this plan may not be suitable for complete beginners.
+Disclaimer: I’m a machine learning PhD, and I code everyday for my research projects. So, this plan may not be suitable for complete beginners.
 
 Table of contents
 	Goals
@@ -32,7 +32,6 @@ Read the python data structure and algorithms twice
 II. Estimated Time to Prepare (Sep 29th):
 	Min/Max hrs before Google ([Oct 7th, Oct 11th] : 71hrs/99hrs
 	Hrs before Facebook (Oct 28th): ~160 hrs
-
 III. High-level Strategies:
 Schedule time to study and practice.
 Prioritize breadth over depth.
@@ -258,12 +257,12 @@ Study and Maps and Hash tables (Sec 10.1-10.2, DSAP), binary search tree (Sec 11
 Practice 2-3 related coding problems on LeetCode
 
 Evening:
-	Study merge sort and quick-sort (Sec 12.1 - 12.3, DSAP)
-	Practice 2-3 related coding problems on LeetCode
+Study merge sort and quick-sort (Sec 12.1 - 12.3, DSAP)
+Practice 2-3 related coding problems on LeetCode
 
-	Study data structures for graphs and graph traversals (Sec 14.1 - 14.3, DSAP)
-	Practice 2-3 related coding problems on LeetCode
+Study data structures for graphs and graph traversals (Sec 14.1 - 14.3, DSAP)
+Practice 2-3 related coding problems on LeetCode
 
-		Review stacks, queues, deques.
+Review stacks, queues, deques.
 
 
