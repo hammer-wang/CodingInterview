@@ -196,16 +196,16 @@ Progress track:
 - Graph data structure and algorithms
 - Sorting: quicksort and merge sort (merge sort can be highly useful in situations where quicksort is impractical, heapsort, - insertion-sort, radix-sort)
 - Most famous classes of NP-complete problems: traveling salesman and knapsack problem. What does NP-complete mean?
-Trees, basic tree construction, traversal and manipulation algorithms, hash tables, stacks, arrays, linked lists, priority queues
-Hash tables are the most important data structure known to mankind. (should be able to implement one with only arrays) Know the O()characteristics of the standard library implementation for hashtables and maps in the chosen language.
-Trees: tree construction, traversal, manipulation, binary trees. N-ary trees, trie-trees. Balanced binary tree, red/black tree, splay tree or an AVL tree. Know how to implement them. BFS and DFS. Know the difference between inorder, poster, and preorder.
-Min/Max heaps. Understand the application and O() characteristics. Probably won’t implement, but it’s important to know when it makes sense to use one.
+- Trees, basic tree construction, traversal and manipulation algorithms, hash tables, stacks, arrays, linked lists, priority queues
+- Hash tables are the most important data structure known to mankind. (should be able to implement one with only arrays) Know the O()characteristics of the standard library implementation for hashtables and maps in the chosen language.
+- Trees: tree construction, traversal, manipulation, binary trees. N-ary trees, trie-trees. Balanced binary tree, red/black tree, splay tree or an AVL tree. Know how to implement them. BFS and DFS. Know the difference between inorder, postorder, and preorder.
+- Min/Max heaps. Understand the application and O() characteristics. Probably won’t implement, but it’s important to know when it makes sense to use one.
 - Graphs: three representations. Objects and pointers, matrix, adjacency list. Basic graph traversal algorithms, breadth-first and depth-first search. Know the computational complexity, tradeoffs and how to implement them in real code.
-Recursion.
+- Recursion.
 - Divide and conquer
 - hashset/hashmap/hashtable/dictionary
 - Operating systems: You should understand processes, threads, concurrency issues, locks, mutexes, semaphores, monitors and how they all work. Understand deadlock, livelock and how to avoid them. Know what resources a process needs and a thread needs. Understand how context switching works, how it's initiated by the operating system and underlying hardware. Know a little about scheduling. The world is rapidly moving towards multi-core, so know the fundamentals of "modern" concurrency constructs.
-Math: Some interviewers ask basic discrete math questions. This is more prevalent at Google than at other companies because counting problems, probability problems and other Discrete Math 101 situations surrounds us. Spend some time before the interview refreshing your memory on (or teaching yourself) the essentials of elementary probability theory and combinatorics. You should be familiar with n-choose-k problems and their ilk – the more the better.
+- Math: Some interviewers ask basic discrete math questions. This is more prevalent at Google than at other companies because counting problems, probability problems and other Discrete Math 101 situations surrounds us. Spend some time before the interview refreshing your memory on (or teaching yourself) the essentials of elementary probability theory and combinatorics. You should be familiar with n-choose-k problems and their ilk – the more the better.
 - Distributed systems and parallel programming
 - How search works
 - Scalable web architecture and distributed system
@@ -262,32 +262,30 @@ Evening:
 ### 2019-09-29 (Sunday)
 Topics: linked list, positional list, trees, maps, hash tables, pattern matching, dynamic programming
 
-Morning:
-- Study singly-linked lists (Sec 7.1, DSAP), positional list (Sec 7.4.1), trees (chapter 8, DSAP)
-- Practice related coding problems
-
-Afternoon:
-- Study and Maps and Hash tables (Sec 10.1-10.2, DSAP)
-- Practice 2-3 related coding problems on LeetCode
+Morning and Afternoon:
+- Update preparation plans and create a Github repo
+- Study singly-linked lists (Sec 7.1, DSAP), positional list (Sec 7.4.1), trees data structure and tree traversal (section 8.1-8.4, DSAP) [Y]
+- Practice 1 linked-list, 1 tree question [Y]
 
 Evening:
-- Study pattern matching and dynamic programming (section 13.1 - 13.3)
-- Practice 2-3 related coding problems on LeetCode
-- Review stacks, queues, deques.
-- review the topics learned today
+- Study Maps and Hash tables (Sec 10.1-10.2, DSAP), dynamic programming (section 13.3) [Y]
+- Practice 1 hash table question, 2 dynamic programming questions. []
+- Review stacks, queues, deques. []
+- Review the topics learned today []
 
 ### 2019-09-30 (Monday)
 
 Morning (6:30 am - 9:00 am)
-- Study graphs (Chapter 14)
-- practice 1-2 graph related coding problems
+- Study graphs (Chapter 14) []
+- practice 1-2 graph related coding problems []
 
 Evening (8:00 pm- 12:30 am)
-- Study Sorting and selection
-- practice 1-2 sorting and selection related coding problems
-- review graphs
-- review sorting and selection
+- Study Sorting and selection (Chapter 12) []
+- practice 1 questions for sorting and selection each []
+- Review linked-list, trees, maps, hash tabels, pattern matching and dynamic programming. []
+- review sorting and selection []
 
+Topics haven't covered yet: priotity queues, sorting and selection, pattern matching, skip lists, search trees, AVL trees, red-black trees.
 
 
 
