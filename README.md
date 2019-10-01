@@ -276,16 +276,16 @@ Evening:
 ### 2019-09-30 (Monday)
 
 Morning (6:30 am - 9:00 am)
-- Study graphs (Chapter 14) []
-- practice 1-2 graph related coding problems []
+- Study graphs (Chapter 14) [Y]
+- practice 1 graph related coding problems (counting islands, using DFS) [Y]
 
 Evening (8:00 pm- 12:30 am)
-- Study Sorting and selection (Chapter 12) []
-- practice 1 questions for sorting and selection each []
-- Review linked-list, trees, maps, hash tabels, pattern matching and dynamic programming. []
-- review sorting and selection []
+- Watch dynamic programming videos (end, class 15, 1:36) [Y]
 
 Topics haven't covered yet: priotity queues, sorting and selection, pattern matching, skip lists, search trees, AVL trees, red-black trees.
+
+### 2019-10-01
+
 
 
 
