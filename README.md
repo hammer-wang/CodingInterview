@@ -227,6 +227,23 @@ Progress track:
 8. Record activity on your progress chart.
 9. Revisit the question next week.
 
+## Topics to Know (implementation and )
+1. iteration + recursion
+2. arrays + matrices
+3. linked lists
+4. queues + stacks + heaps
+5. sets + hash maps
+6. trees + binary search + binary search trees
+7. graphs + DFS + BFS
+8. TRIES
+9. Sorting: merge sort and quick sort
+10. dynamic programming (memorization and divide-and-conquer)
+11. multiple pointers
+12. sliding windows
+13. greedy algorithms
+14. OOD
+
+
 ## Daily Notes
 
 ### Template: Date (Day)
@@ -281,11 +298,13 @@ Morning (6:30 am - 9:00 am)
 
 Evening (8:00 pm- 12:30 am)
 - Watch dynamic programming videos (end, class 15, 1:36) [Y]
+- Read graph traversal algorithms []
 
 Topics haven't covered yet: priotity queues, sorting and selection, pattern matching, skip lists, search trees, AVL trees, red-black trees.
 
 ### 2019-10-01
 
-
+- Interview tips: 1) ask can I think for a second? 2) think out loud to show your thought process; 3) use examples; 4) Does this seem like a good strategy?
+- Watch binary search tree, bit representation, bit manipulation
 
 
