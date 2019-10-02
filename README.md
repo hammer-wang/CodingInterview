@@ -129,27 +129,28 @@ Progress track:
 ## VIII. Knowledge Checklist
 
 ### Data structures
-- [] arrays and strings
-- [] linked lists
-- [] stacks and queues
-- [] hash table: a data structure that maps keys to values for highly efficient lookup. Lookup time is normally O(1).
-- [] Trees
-- [] Trie
-- [] Graphs BFS
-- [] Graphs DFS
-- [] Heaps (min heaps and max heaps), use array to implement, heapify
+- [y] arrays and strings
+- [y] linked lists
+- [y] stacks and queues
+- [y] hash table: a data structure that maps keys to values for highly efficient lookup. Lookup time is normally O(1).
+- [y] Trees
+- [y] Trie
+- [y] Graphs BFS
+- [y] Graphs DFS
+- [y] Heaps (min heaps and max heaps), use array to implement, heapify
 - [] priority queues
 - [] red and black trees
 
 ### Dynamic programming
-- []
+- [y] top-down
+- [y] bottom up
 
 ### Backtracking
 - []
 
 ### Search Algorithm
 - [] linear search
-- [] binary search
+- [y] binary search
 - [] jump search
 - [] interpolation search
 - [] exponential search
@@ -157,8 +158,8 @@ Progress track:
 - [] fibonacci search
 
 ### Sorting algorithms
-- [] quicksort
-- [] merge sort
+- [y] quicksort
+- [y] merge sort
 - [] heapsort (heap sort basically is just heapify and remove, iteratively)
 - [] insertion sort
 - [] counting sort
@@ -306,5 +307,32 @@ Topics haven't covered yet: priotity queues, sorting and selection, pattern matc
 
 - Interview tips: 1) ask can I think for a second? 2) think out loud to show your thought process; 3) use examples; 4) Does this seem like a good strategy?
 - Watch binary search tree, bit representation, bit manipulation
+- sorting: bubble sort O(n^2), O(1)
+
+### 2019-10-02
+- Heap
+- Tries
+- Graph
+- Backtracking: after we realize we made a wrong decision, we just go back to a place with another path. It's mostly associated with recursion.
+- My recursion is pretty weak, I should do more about it.
+- Watch videos on recursion and do more problems about it.
+
+Cycle:
+- recursion [Y]
+- DFS [Y]
+- BFS [Y]
+- dynamic programming [Y]
+- stack, queue, or hash table [Y]
+- graph []
+- backtracking []
+- heaps []
+- two pointers [Y]
+- sorting [Y]
+- searching [Y]
+- Finished two mock interviews [Y], it looks like that most of the problems are about strings and arrays for the mock interview.
+
+ I should do more recursion problems.
+
+
 
 
