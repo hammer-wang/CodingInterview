@@ -333,6 +333,26 @@ Cycle:
 
  I should do more recursion problems.
 
+### 2019-10-03
+- Mock interview
+- Merge sort
+- guess number higher or lower II
+- Recursion
+- NP-complete problems
+- System design
+- Networks
+
+
+## Problems to review:
+- Edit distance
+- Find if string is k-palindrome
+- Stepping numbers
+- Longest increasing subsequence
+- remove n-th node from end of list
+- Symmetric tree (solve by both recursion and BFS)
+- Convert Sorted Array to Binary Search Tree
+
+
 
 
 
